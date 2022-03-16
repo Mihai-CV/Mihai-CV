@@ -1,6 +1,7 @@
 ### Hi, I'm Mihai 👋
 
 <img src="./public/BANNER - tec.png">
+
 ---
 
 > <b>I am a front-end developer and designer</b>
